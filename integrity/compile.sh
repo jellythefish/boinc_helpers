@@ -1,0 +1,1 @@
+pyinstaller key_gen.py --onefile
